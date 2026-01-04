@@ -1,0 +1,7 @@
+data/
+*.zip
+*.pth
+*.pt
+*.bin
+*.h5
+.ipynb_checkpoints/
